@@ -1,47 +1,112 @@
-<h1 align="center">🚀 Nombre de tu proyecto</h1>
+<h1 align="center">Kevin V6</h1>
 
 <p align="center">
-  Descripción corta y clara de lo que hace tu proyecto.
+Full Stack Developer | Freelance | Construyendo soluciones reales
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/tuusuario/turepo?style=social" />
-  <img src="https://img.shields.io/github/forks/tuusuario/turepo?style=social" />
-  <img src="https://img.shields.io/github/license/tuusuario/turepo" />
+  <a href="https://www.linkedin.com/in/kevin-bautista-coro-4273b8238/">LinkedIn</a>
 </p>
 
 ---
 
-## 📌 Sobre el proyecto
+## 👨‍💻 Sobre mí
 
-Explica en pocas líneas qué problema resuelve tu proyecto y por qué existe.
+Soy desarrollador freelance enfocado en crear aplicaciones completas, desde la interfaz hasta la lógica y base de datos.
+
+No me interesa solo escribir código, me interesa construir sistemas que funcionen en el mundo real, sean útiles y escalables.
+
+Actualmente estudio Ingeniería en Sistemas Informáticos y trabajo en proyectos propios.
 
 ---
 
-## 🛠️ Tecnologías
+## 🚀 Qué puedo hacer
 
-- Lenguaje principal
-- Frameworks
-- Librerías clave
+- Construir aplicaciones web completas (frontend + backend + base de datos)
+- Crear sistemas con autenticación, dashboards y lógica de negocio
+- Diseñar interfaces funcionales y claras
+- Desarrollar APIs y conectar servicios
+- Implementar y desplegar proyectos
 
-Ejemplo:
-- JavaScript
-- React
+---
+
+## 🧠 Tecnologías
+
+### Frontend
+- HTML5, CSS, JavaScript
+- Bootstrap, Tailwind
+- TypeScript
+
+### Backend
 - Node.js
+- Java, Python, C#
+
+### Bases de datos
+- MySQL, PostgreSQL
+- MongoDB, SQL Server
+
+### Herramientas
+- Git, GitHub
+- Visual Studio Code
 
 ---
 
-## ⚙️ Instalación
+## 🤖 Actualmente
 
-```bash
-# Clonar repositorio
-git clone https://github.com/tuusuario/turepo.git
+Estoy enfocado en el uso de inteligencia artificial, especialmente en:
 
-# Entrar al proyecto
-cd turepo
+- Integración de IA en aplicaciones
+- Creación de agentes inteligentes
+- Automatización de procesos
 
-# Instalar dependencias
-npm install
+---
 
-# Ejecutar
-npm run dev
+## 💡 En qué me diferencio
+
+Me enfoco en construir soluciones completas y funcionales, no solo código aislado.
+
+Aprendo rápido y priorizo proyectos reales que puedan convertirse en productos o generar valor.
+
+Prefiero trabajar solo para tener control total del proceso y la ejecución.
+
+---
+
+## 🧩 Proyecto destacado
+
+**FriedCrab - Sistema de ventas**
+
+Sistema desarrollado para un restaurante de mariscos que permite:
+
+- Gestión de pedidos
+- Control de ventas
+- Administración básica del negocio
+
+---
+
+## 🎯 Objetivo
+
+Formar parte de una startup donde pueda aportar con desarrollo real, tomar decisiones técnicas y crecer construyendo productos.
+
+---
+
+## 🎮 Intereses
+
+- Videojuegos
+- Investigación tecnológica
+- Nuevas herramientas y tendencias en desarrollo
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TU_USUARIO
+- LinkedIn: https://www.linkedin.com/in/kevin-bautista-coro-4273b8238/
